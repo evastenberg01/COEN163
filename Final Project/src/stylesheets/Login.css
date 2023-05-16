@@ -1,0 +1,13 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 10vh;
+  left: 0;
+  right: 0;
+  margin: 10vh 10vw;
+  width: 80vw;
+  height: 60vh;
+  outline: 1px solid red;
+}
